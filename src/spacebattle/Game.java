@@ -7,12 +7,6 @@ import spacebattle.ship.*;
 import java.util.Scanner;
 
 
-/*
-Name: Wolfgang Matthias Vasconcelos de Mendonca Hock
-Matrikelnummer: 2221542
-Datum: 31.01.2021
- */
-
 public class Game {
 
     static Scanner input = new Scanner(System.in);
